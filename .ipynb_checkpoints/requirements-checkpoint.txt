@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+fastapi
+pydantic
+nest_asyncio
+uvicorn
+typing
+import pickle
